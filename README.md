@@ -1,4 +1,4 @@
-#Large Kernel Receptive Fields for Time Series Classification
+Large Kernel Receptive Fields for Time Series Classification
 This is the project of manuscript 'Large Kernel Receptive Fields for Time Series Classification'
 
 ![archi](LKRFN_img.png)

@@ -1,4 +1,4 @@
-Large Kernel Receptive Fields for Time Series Classification
+# Large Kernel Receptive Fields for Time Series Classification
 This is the project of manuscript 'Large Kernel Receptive Fields for Time Series Classification'
 
 ![archi](LKRFN_img.png)
@@ -7,7 +7,7 @@ This is the project of manuscript 'Large Kernel Receptive Fields for Time Series
 
 Tested on Linux, with Python 3.8, PyTorch 1.9.0, CUDA 11.1, and 1x NVIDIA 3090.
 
-##Data Transformation
+## Data Transformation
 
 The dataset in this paper consists of two parts: the original dataset and the transformed MSRP dataset. The original data used in this project comes from the [UCR/UEA archive](http://timeseriesclassification.com/TSC.zip)
 
